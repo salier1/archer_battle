@@ -1,2 +1,7 @@
 # archer_battle
-carzyArcherBattleGameWtf
+
+↑↓←→ move
+Shift dash
+Space shoot
+
+
