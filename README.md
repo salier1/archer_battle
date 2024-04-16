@@ -6,5 +6,4 @@ Shift dash
 
 Space shoot
 
-
-![MENU](.\pics\menu.jpg)
+![menu](./pics/menu.jpg)
